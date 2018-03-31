@@ -7772,6 +7772,7 @@ Mesh files no longer used:
 	<property name="EconomicValue" value="500"/>
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gasCan"/>
+		<property name="Recipes_to_learn" value="oilBarrel"/>		
 		<!-- <property name="Skills_to_gain" value="craftSkillScience"/> -->
 	</property>
 </item>

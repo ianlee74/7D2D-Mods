@@ -2685,6 +2685,9 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="unit_clay" count="1"/>
 </recipe>
 
+<recipe name="oilBarrel" count="1" craft_area="chemistryStation">
+	<ingredient name="oilShale" count="72"/>
+</recipe>
 
 </recipes>
 <!-- To do (maybe / later)
