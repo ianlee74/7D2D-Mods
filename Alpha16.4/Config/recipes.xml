@@ -2678,6 +2678,14 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="cobblestones" count="4"/>
 </recipe>
 
+<!-- Added by Ian -->
+
+<recipe name="canEmpty" count="1" craft_area="forge">
+	<ingredient name="unit_iron" count="5"/>
+	<ingredient name="unit_clay" count="1"/>
+</recipe>
+
+
 </recipes>
 <!-- To do (maybe / later)
 <recipe name="steelArrowHead" count="1" craft_area="forge" craft_tool="calipers" material_based="true">
