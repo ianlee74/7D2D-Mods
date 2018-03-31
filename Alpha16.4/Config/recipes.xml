@@ -2689,6 +2689,11 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="oilShale" count="72"/>
 </recipe>
 
+<recipe name="lawnMower" count="1" craft_area="workbench" craft_time="60">
+	<ingredient name="macheteBlade" count="1"/>
+	<ingredient name="leather" count="1"/>
+</recipe>
+
 </recipes>
 <!-- To do (maybe / later)
 <recipe name="steelArrowHead" count="1" craft_area="forge" craft_tool="calipers" material_based="true">
