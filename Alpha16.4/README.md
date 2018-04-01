@@ -3,6 +3,7 @@
 Mods Included:
 - Empty Can
 - Gas Barrel (from oil shale at chem station)
+    * Known problem. This can currently be done w/o first reading the gas can schematic.
 - Lawnmower (borrowed from Z-Nation FFS)
 - Increased Stack Sizes
     - Raw Iron (6K)
