@@ -13,3 +13,6 @@ Mods Included:
     - Concrete Mix (6K)
     - Cement (6K)
     - Gas Can (6K)
+    - Paint (6K)
+    - Forged Steel (1K)
+    - Forged Iron (1K)
