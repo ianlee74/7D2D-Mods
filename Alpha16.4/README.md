@@ -6,6 +6,7 @@ Mods Included:
     * Known problem. This can currently be done w/o first reading the gas can schematic.
 - Lawnmower (borrowed from Z-Nation FFS)
 - Street Light (ignore docs that say it doesn't require electricity. It must be wired like all other lights.)
+- Spotlights - enabled advanced rotation (which also eliminates angled rotations :( ))
 - Increased Stack Sizes
     - Raw Iron (6K)
     - Stone (12K)
