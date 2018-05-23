@@ -17,3 +17,6 @@ Mods Included:
     - Paint (6K)
     - Forged Steel (1K)
     - Forged Iron (1K)
+    - Radiator (50)
+    - Cloth (1K)
+    - Wood Frames (800)

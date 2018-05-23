@@ -2892,7 +2892,9 @@ group desc for stuff like metal siding
 	<property name="UseGlobalUV" value="Local"/>
 	<property name="Group" value="Building,Basics"/>
 	<property name="CanPickup" value="true"/>
-	<property class="UpgradeBlock"> <property name="ToBlock" value="woodBlock"/> </property>
+	<property class="UpgradeBlock"> 
+	<property name="ToBlock" value="woodBlock"/> </property>
+	<property name="Stacknumber" value="800"/>
 </block>
 
 <block id="296" name="steelPillar50">
