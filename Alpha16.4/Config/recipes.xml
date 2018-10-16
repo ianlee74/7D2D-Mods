@@ -2699,6 +2699,87 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="scrapIron" count="50"/>
 </recipe>
 
+  <recipe name="cntWallOven" count="1" craft_area="workbench">
+    <ingredient name="cntOven" count="1"/>
+    <ingredient name="glassBusinessPlate" count="2"/>
+    <ingredient name="cntCabinet" count="1"/>
+  </recipe>
+
+  <recipe name="cntGraniteSink" count="1" craft_area="workbench">
+    <ingredient name="cntCabinet" count="1"/>
+    <ingredient name="scrapIron" count="20"/>
+    <ingredient name="shortMetalPipe" count="10"/>
+  </recipe>
+
+  <recipe name="cntGasPump" count="1" craft_area="workbench">
+    <ingredient name="forgedIron" count="20"/>
+    <ingredient name="electricParts" count="10"/>
+    <ingredient name="electronicParts" count="10"/>
+    <ingredient name="mechanicalParts" count="10"/>
+  </recipe>
+
+  <recipe name="airConditioner" count="1" craft_area="workbench">
+    <ingredient name="forgedIron" count="10"/>
+    <ingredient name="electricParts" count="15"/>
+    <ingredient name="electronicParts" count="10"/>
+    <ingredient name="shortMetalPipe" count="10"/>
+    <ingredient name="scrapIron" count="20"/>
+  </recipe>
+
+  <recipe name="cntOven" count="1" craft_area="workbench">
+    <ingredient name="mechanicalParts" count="5"/>
+    <ingredient name="electricParts" count="5"/>
+    <ingredient name="electronicParts" count="5"/>
+    <ingredient name="scrapPlastics" count="5"/>
+    <ingredient name="shortMetalPipe" count="5"/>
+    <ingredient name="forgedIron" count="4"/>
+  </recipe>
+
+  <recipe name="securityGatePlate" count="1" craft_area="forge" craft_tool="anvil" material_based="true">
+    <ingredient name="unit_iron" count="100"/>
+    <ingredient name="unit_clay" count="20"/>
+  </recipe>
+
+  <recipe name="securityGateCTRPlate" count="1" craft_area="forge" craft_tool="anvil" material_based="true">
+    <ingredient name="unit_iron" count="100"/>
+    <ingredient name="unit_clay" count="20"/>
+  </recipe>
+
+  <recipe name="cntMedicineCabinet" count="1" craft_area="workbench">
+    <ingredient name="glassCTRSheet" count="1"/>
+    <ingredient name="scrapIron" count="5"/>
+  </recipe>
+
+  <recipe name="cntMunitionsBox" count="1">
+    <ingredient name="forgedSteel" count="10"/>
+  </recipe>
+
+  <recipe name="cntTrashCompactor" count="1" craft_area="workbench">
+    <ingredient name="forgedIron" count="10"/>
+    <ingredient name="shortMetalPipe" count="2"/>
+    <ingredient name="mechanicalParts" count="10"/>
+    <ingredient name="electricParts" count="5"/>
+    <ingredient name="electronicParts" count="1"/>
+  </recipe>
+
+  <recipe name="cntWashingMachine" count="1" craft_area="workbench">
+    <ingredient name="forgedIron" count="10"/>
+    <ingredient name="shortMetalPipe" count="10"/>
+    <ingredient name="mechanicalParts" count="10"/>
+    <ingredient name="electricParts" count="5"/>
+    <ingredient name="glassCTRSheet" count="1"/>
+  </recipe>
+
+  <recipe name="cntBookcase" count="1">
+    <ingredient name="wood" count="10"/>
+  </recipe>
+
+  <recipe name="barStool" count="1">
+    <ingredient name="forgedIron" count="10"/>
+    <ingredient name="cottonPlant" count="5"/>
+    <ingredient name="leather" count="2"/>
+  </recipe>
+  
 </recipes>
 <!-- To do (maybe / later)
 <recipe name="steelArrowHead" count="1" craft_area="forge" craft_tool="calipers" material_based="true">
